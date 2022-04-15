@@ -25,10 +25,6 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -41,9 +37,9 @@ footer{
 
 #chapter-1-7 > blockquote > p,
 #chapter-1-12 > blockquote > p{
+	margin: .5em 0 0;
 	text-align: center;
 	text-indent: 0;
-	margin: .5em 0 0;
 }
 
 #chapter-1-7 > blockquote > p:first-child,
@@ -51,7 +47,7 @@ footer{
 	margin-top: 0;
 }
 
-@supports (display: flex) {
+@supports(display: flex){
 	#chapter-1-12 > blockquote > p:last-child{
 		display: flex;
 		justify-content: space-between;
