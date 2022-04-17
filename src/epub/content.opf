@@ -37,7 +37,7 @@
 		<meta property="term" refines="#subject-2">sh2007101817</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -48,7 +48,6 @@
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Downstream</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sigfrid-siwertz_downstream_macmillan-of-canada</meta>
 		<dc:creator id="author">Sigfrid Siwertz</dc:creator>
 		<meta property="file-as" refines="#author">Siwertz, Sigfrid</meta>
@@ -67,18 +66,18 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Barry Abrahamsen</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Abrahamsen, Barry</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
