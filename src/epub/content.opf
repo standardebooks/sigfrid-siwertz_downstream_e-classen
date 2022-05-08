@@ -38,19 +38,20 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">We follow the lives of five bourgeois siblings linked by their ancestral home.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The five Selambs siblings have suffered the death of their mother and incapacitation of their father, and consequently are mainly left to fend for themselves apart from the occasional look in from both their guardian and the appointed manager of their ancestral estate of Selambshof. Perhaps unsurprisingly, none of them emerge unscathed from this upbringing, although the damage manifests itself in different and unforeseen ways. As they each attempt to forge their own path through the ranks of fin de siècle bourgeois Swedish society, the Selambs family nature can’t help but out.&lt;/p&gt;
+			&lt;p&gt;In this bildungsroman with five subjects, &lt;a href="https://standardebooks.org/ebooks/sigfrid-siwertz"&gt;Sigfrid Siwertz&lt;/a&gt; charts the societal and cultural changes he observed during his own adolescence and early adulthood in Stockholm and the surrounding areas. &lt;i&gt;Downstream&lt;/i&gt; (titled in the Swedish original simply as &lt;i&gt;Selambs&lt;/i&gt;) is perhaps his best known work from a broad corpus of novels, short stories, poems and plays, and has remained highly regarded. Siwertz himself became part of the Swedish literary establishment later in life, as a member of the Swedish Academy and the Nobel Prize for Literature committee. This edition of &lt;i&gt;Downstream&lt;/i&gt; is based on the 1923 translation to English by Macmillan of Canada.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60685</dc:source>
 		<dc:source>https://archive.org/details/downstream00siwe</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sigfrid-siwertz_downstream_macmillan-of-canada</meta>
 		<dc:creator id="author">Sigfrid Siwertz</dc:creator>
 		<meta property="file-as" refines="#author">Siwertz, Sigfrid</meta>
+		<meta property="se:name.person.full-name" refines="#author">Per Sigfrid Siwertz</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Sigfrid_Siwertz</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no95003719</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
