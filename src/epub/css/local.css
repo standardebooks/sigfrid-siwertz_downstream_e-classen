@@ -51,10 +51,36 @@ footer{
 	margin-top: 0;
 }
 
+#chapter-1-12 > blockquote{
+	text-align: center;
+}
+
+#chapter-1-12 > blockquote p:nth-child(3),
+#chapter-1-12 > blockquote p:nth-child(4){
+	display: inline-block;
+}
+
 @supports(display: flex){
-	#chapter-1-12 > blockquote > p:last-child{
+	#chapter-1-12 > blockquote{
 		display: flex;
-		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+
+	#chapter-1-12 > blockquote p{
+		width: 100%;
+	}
+
+	#chapter-1-12 > blockquote p:nth-child(3),
+	#chapter-1-12 > blockquote p:nth-child(4){
+		width: 50%;
+	}
+
+	#chapter-1-12 > blockquote p:nth-child(3){
+		text-align: initial;
+	}
+
+	#chapter-1-12 > blockquote p:nth-child(4){
+		text-align: right;
 	}
 }
 
