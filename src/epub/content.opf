@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60685</dc:source>
 		<dc:source>https://archive.org/details/downstream00siwe</dc:source>
-		<meta property="se:word-count">127171</meta>
+		<meta property="se:word-count">127172</meta>
 		<meta property="se:reading-ease.flesch">74.29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sigfrid-siwertz_downstream_macmillan-of-canada</meta>
 		<dc:creator id="author">Sigfrid Siwertz</dc:creator>
