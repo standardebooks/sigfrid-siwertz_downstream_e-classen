@@ -61,7 +61,7 @@
 		<meta property="se:name.person.full-name" refines="#translator">Ernest Classen</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2001075160</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">Andres Zorn</dc:contributor>
+		<dc:contributor id="artist">Anders Zorn</dc:contributor>
 		<meta property="file-as" refines="#artist">Zorn, Anders</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Anders Leonard Zorn</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Anders_Zorn</meta>
