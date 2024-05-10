@@ -47,7 +47,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/60685</dc:source>
 		<dc:source>https://archive.org/details/downstream00siwe</dc:source>
 		<meta property="se:production-notes">Used page scans appear to be a minor edit of the Classen translation, first seen in these page scans: https://ia801901.us.archive.org/21/items/in.ernet.dli.2015.39555/2015.39555.Downstream_text.pdf</meta>
-		<meta property="se:word-count">127166</meta>
+		<meta property="se:word-count">127168</meta>
 		<meta property="se:reading-ease.flesch">74.29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sigfrid-siwertz_downstream_e-classen</meta>
 		<dc:creator id="author">Sigfrid Siwertz</dc:creator>
