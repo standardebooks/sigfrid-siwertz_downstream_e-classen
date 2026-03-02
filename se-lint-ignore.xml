@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-1-12.xhtml">
-		<ignore>
-			<code>s-046</code>
+		<ignore code="s-046">
 			<reason>Matched text is a single semantic sentence requires spans for CSS targeting.</reason>
 		</ignore>
 	</file>
