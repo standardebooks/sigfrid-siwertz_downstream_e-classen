@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-1-12.xhtml">
 		<ignore code="s-046">
+			<line>33</line>
 			<reason>Matched text is a single semantic sentence requires spans for CSS targeting.</reason>
 		</ignore>
 	</file>
